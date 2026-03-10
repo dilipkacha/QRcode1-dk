@@ -1,20 +1,6 @@
-<<<<<<< HEAD
 Django==5.2.7
 gunicorn==23.0.0
 whitenoise==6.9.0
 pillow==10.4.0
 qrcode==7.4.2
 pypng==0.20220715.0
-psycopg2-binary==2.9.11
-dj-database-url==2.3.0
-=======
-Django==5.2.7
-gunicorn==23.0.0
-whitenoise==6.9.0
-pillow==10.4.0
-qrcode==7.4.2
-pypng==0.20220715.0
-psycopg2-binary==2.9.11
-dj-database-url==2.3.0
->>>>>>> b32a94452ab678f26a8739cdc759812bad4acda7
-python-dotenv==1.1.1
